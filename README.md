@@ -2,6 +2,6 @@
 
 latihan membuat RESTful API dari Medium Kiddy.
 
-### npm init
-### npm install --save express mysql body-parser
-### jangan lupa buat tabel di MYSQL
+npm init
+npm install --save express mysql body-parser
+jangan lupa buat tabel di MYSQL
